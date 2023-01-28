@@ -11,6 +11,7 @@
 - ReactJs
 - NextJs
 - Axios
+- React-icons
 - OpenWeatherMap api
 - Teleport cities api
 
